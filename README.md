@@ -1,4 +1,4 @@
-# Music-Streaming website
+# Sentiment Analysis
 Analyses tweets containing a particular keyword using Python & NLP and categorises them as positive, strongly positive, weakly positive, neutral, negative, weakly negative and strongly negative.
 
 # Requirements
