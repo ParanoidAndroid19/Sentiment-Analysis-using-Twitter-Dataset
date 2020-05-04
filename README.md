@@ -1,5 +1,5 @@
 # Sentiment Analysis
-Analyses tweets containing a particular keyword using Python & NLP and categorises them as positive, strongly positive, weakly positive, neutral, negative, weakly negative and strongly negative.
+Analyses tweets containing a particular keyword using Python & NLP and categorises them as positive, strongly positive, weakly positive, neutral, negative, weakly negative and strongly negative. Tweepy python library is used to access the Twitter API. Textblob is a python library for processing textual data.
 
 # Requirements
 
